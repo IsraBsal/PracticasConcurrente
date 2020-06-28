@@ -4,7 +4,7 @@
 #include <omp.h>
 #include <math.h>
 #define TAM 8 //Modificar al tamano del arreglo deseado
-#define PASOS log10(TAM)/log10(2)
+#define PASOS log10(TAM)/log10(2) //Cclulamos los pasos
 
 int A[TAM];
 int B[TAM];
