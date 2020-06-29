@@ -1,3 +1,4 @@
+
 //Contreras Villanueva Israel 2163047829
 #include <unistd.h>
 #include <stdio.h>
@@ -43,11 +44,6 @@ int main()
     //Termina pragma
 
   }//Termina for de pasos
-
-
-
-
-
 
 printf("Asi queda el arreglo A \n");
 for(int j=0;j<TAM;j++){
